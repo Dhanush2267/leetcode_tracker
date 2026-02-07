@@ -1,0 +1,14 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+
+input, textarea {
+  display: block;
+  margin: 10px 0;
+  width: 300px;
+}
+
+button {
+  padding: 5px 10px;
+}
